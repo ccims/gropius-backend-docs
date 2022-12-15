@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[80355],{64758:e=>{e.exports=JSON.parse('{"title":"core","slug":"api/core","permalink":"/gropius-backend-docs/api/core","navigation":{"next":{"title":"gropius.authorization","permalink":"/gropius-backend-docs/api/core/gropius.authorization/index-"}}}')}}]);
